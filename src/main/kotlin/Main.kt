@@ -3,7 +3,7 @@ fun main(args: Array<String>) {
     var language ="french"
     val  score =95
     language = "spanish"
-
+    
 
     var age : Int =12
     val day : String = "Monday"
